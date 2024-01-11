@@ -23,6 +23,7 @@
       float: left;
       display: block;
       color: white;
+      
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
@@ -43,6 +44,16 @@
       text-align: center;
       padding: 14px 16px;
       text-decoration: none;
+    }
+    #Price_Range{
+      border-radius: 10px;
+     
+     
+    }
+    #Room_Type{
+      border-radius: 10px;
+      
+     
     }
   
 
