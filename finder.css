@@ -1,1 +1,39 @@
 
+    /* Style the navbar */
+    .navbar {
+      overflow: hidden;
+      background-color: navy;
+      border: 2px solid black;
+    }
+    img {
+      height: 80px;
+      margin-left: 5px;
+      width: fit-content;
+
+    }
+    h1{
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: rgb(80, 53, 53);
+
+    }
+
+    
+    /* Style the navbar links */
+    .navbar a {
+      float: left;
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    /* for logo */
+    
+    
+    /* Change color on hover */
+    .navbar a:hover {
+      background-color: #ddd;
+      color: black;
+    }
+  
+
